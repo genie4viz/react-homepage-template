@@ -25,7 +25,7 @@ class Home extends Component {
                 <img id="homeLogo" src={require("../../../images/largelogo2.png")} />
                 <hr/>
                 <p>
-                    At Jabooda, we believe in a home for every family.
+                    At Trend Field, we believe in the future for everyone.
                 </p>
 
                 <div class="buttonContainer">
@@ -70,7 +70,7 @@ class Home extends Component {
         <div className="pageContent">
             <ContentContainer
                 header="WHO ARE WE?"
-                paragraph1="Jabooda Homes, Inc. specializes in modern, contemporary, traditional and custom style residential homes. 
+                paragraph1="Trend Field, Inc. specializes in modern, contemporary, traditional and custom style residential homes. 
                             We are based out of Mercer Island, WA and hold JABOOHI853D7 (Construction Contractor, General) licenses according
                             to the Washington license board. With over 10 years of experience with construction and development, we make
                             construction processes simple and strive to maintain friendly client relationships."
