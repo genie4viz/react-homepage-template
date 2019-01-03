@@ -71,7 +71,7 @@ class Home extends Component {
             <ContentContainer
                 header="WHO ARE WE?"
                 paragraph1="Trend Field, Inc. specializes in modern, contemporary, traditional and custom style residential homes. 
-                            We are based out of Mercer Island, WA and hold JABOOHI853D7 (Construction Contractor, General) licenses according
+                            We are based out of Mercer Island, WA and hold (Construction Contractor, General) licenses according
                             to the Washington license board. With over 10 years of experience with construction and development, we make
                             construction processes simple and strive to maintain friendly client relationships."
                 paragraph2="Many of our homes include Green Four Star certifications. As members of the Master Builders Association, we have one objective
